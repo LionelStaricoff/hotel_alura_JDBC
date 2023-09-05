@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 08 10:46:30 COT 2023
+c3p0-0.9.5.5.jar>central=
+c3p0-0.9.5.5-sources.jar>central=
+c3p0-0.9.5.5.pom>central=
